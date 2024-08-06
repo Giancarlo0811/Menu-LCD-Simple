@@ -12,7 +12,7 @@ Descargar video para la demostracion
 - Cables
 
 ## Diagrama
-![alt text](./Diagrama.jpg)
+![alt text](./Diagrama.png)
 
 ## Montaje
 ![alt text](./Circuito.jpg)
