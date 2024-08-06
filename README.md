@@ -8,6 +8,7 @@ Descargar video para la demostracion
 - Pantalla LCD I2C
 - 3 botones
 - 3 LEDs
+- 3 resistenciad de 220 ohm
 - Protoboard
 - Cables
 
