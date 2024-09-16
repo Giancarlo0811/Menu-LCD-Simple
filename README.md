@@ -18,5 +18,5 @@ Descargar video para la demostracion
 ## Montaje
 Para ver la demostración hacer click en la imagen para descargar el video.
 
-[![Watch the video](https://raw.githubusercontent.com/Giancarlo0811/Menu-LCD-Simple/main/conexiones/Circuito.jpg)](https://raw.githubusercontent.com/Giancarlo0811/Menu-LCD-Simple/main/Demostracion.mp4)
+[![Watch the video](https://raw.githubusercontent.com/Giancarlo0811/Menu-LCD-Simple/main/Circuito.jpg)](https://raw.githubusercontent.com/Giancarlo0811/Menu-LCD-Simple/main/Demostracion.mp4)
 
