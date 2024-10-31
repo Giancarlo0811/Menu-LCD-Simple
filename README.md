@@ -18,6 +18,4 @@ Para este proyecto se utilizan 3 botones para controlar el encendido/apagado de 
 ## Montaje
 Para ver la demostración hacer click en la imagen de abajo.
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hVemasvrIqM/0.jpg)](https://www.youtube.com/watch?v=hVemasvrIqM)
-
-![alt text](./Circuito.jpg)
+[<img src="Circuito.jpg">](https://www.youtube.com/shorts/hVemasvrIqM)
